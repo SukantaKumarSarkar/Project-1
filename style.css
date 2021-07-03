@@ -1,0 +1,25 @@
+        body {
+            background-color: rgba(154, 214, 252, 0.411);
+        }
+        
+        h1 {
+            text-align: left;
+        }
+        
+        h2 {
+            text-align: center;
+        }
+        
+        p {
+            text-align: center;
+        }
+        
+        form {
+            text-align: center;
+            padding-top: 100px;
+            box-sizing: border-box;
+        }
+        
+        .class {
+            text-align: left;
+        }
